@@ -12,4 +12,5 @@ CREATE TABLE courses (
     median_hours_for_certification FLOAT,
     median_age FLOAT,
     pct_bachelors_or_higher FLOAT
-);
+
+    );
