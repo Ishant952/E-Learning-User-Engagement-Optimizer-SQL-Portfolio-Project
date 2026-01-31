@@ -1,0 +1,5 @@
+LOAD DATA LOCAL INFILE 'C:/Users/DELL/Downloads/appendix.csv'
+INTO TABLE courses
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+IGNORE 1 ROWS;
